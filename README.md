@@ -1,4 +1,4 @@
-# Curso 1975 - Modelando Domínios Ricos - Por Balta.IO
+# Curso 1975 - Modelando Domínios Ricos - Por Balta.IO - https://balta.io/cursos/modelando-dominios-ricos
 
 Os **Domínios Ricos** são o contrário de **Domínios Anêmicos** e você, provavelmente, vem utilizando domínios anêmicos em seus projetos. Neste curso, quero te mostrar alguns conceitos que vão revolucionar a sua forma de codificar! 
 
